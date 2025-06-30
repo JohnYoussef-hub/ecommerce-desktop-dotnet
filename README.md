@@ -93,6 +93,34 @@ The system supports two distinct roles:
 
 ---
 
+## System Advantages  
+- **Efficiency**: Automates product management, order processing, and refund handling, reducing manual effort and errors.  
+- **User-Friendly**: Clean and intuitive interface for both users and sellers.  
+- **Security**: Stores user and transaction data securely with proper role separation.  
+- **Flexibility**: Supports various product types, promo codes, and user roles.  
+- **Transparency**: Tracks all orders, returns, and payments with clear logs and history.
+
+---
+
+## How It Works  
+1. **Account Registration**: Users or sellers create an account through the system.  
+2. **Balance Deposit**: Users add balance to their virtual wallet to make purchases.  
+3. **Product Browsing & Cart**: Users browse products, add to cart, and apply valid promo codes.  
+4. **Order Placement**: Users confirm and place orders, balance is automatically deducted.  
+5. **Seller Management**: Sellers add/edit products, view profits, and monitor analytics through their dashboard.  
+6. **Returns & Refunds**: If a product is returned, the system automatically processes the refund to the user's balance.
+
+---
+
+## How to Run the System  
+1. Make sure you have **Visual Studio Community 2022** and **SQL Server** installed.  
+2. Import the required **SQL Server database** used by the application (located in the project folder).  
+3. Open `E-commerceDB.bak` and configure your **connection string** with correct user ID and password.  
+4. Build and run the project to start using the full system.
+   `usename = john , password = 111`
+
+---
+
 ## Contribution
 Contributions are welcome!
 
