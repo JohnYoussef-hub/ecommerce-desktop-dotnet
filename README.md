@@ -117,7 +117,7 @@ The system supports two distinct roles:
 2. Import the required **SQL Server database** used by the application (located in the project folder).  
 3. Open `E-commerceDB.bak` and configure your **connection string** with correct user ID and password.  
 4. Build and run the project to start using the full system.
-   `usename = john , password = 111`
+   `username = john , password = 111`
 
 ---
 
