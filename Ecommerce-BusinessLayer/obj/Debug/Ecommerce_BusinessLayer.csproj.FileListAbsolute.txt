@@ -1,0 +1,9 @@
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\bin\Debug\Ecommerce-BusinessLayer.dll
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\bin\Debug\Ecommerce-BusinessLayer.pdb
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\bin\Debug\Ecommerce_DataAccessLayer.dll
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\bin\Debug\Ecommerce_DataAccessLayer.pdb
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\obj\Debug\Ecommerce_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\obj\Debug\Ecommerce_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\obj\Debug\Ecommerc.F20FB227.Up2Date
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\obj\Debug\Ecommerce-BusinessLayer.dll
+C:\Users\johnm\source\repos\E-commerce\Ecommerce-BusinessLayer\obj\Debug\Ecommerce-BusinessLayer.pdb

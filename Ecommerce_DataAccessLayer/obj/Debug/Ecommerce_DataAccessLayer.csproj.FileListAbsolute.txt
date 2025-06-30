@@ -1,0 +1,6 @@
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\bin\Debug\Ecommerce_DataAccessLayer.dll
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\bin\Debug\Ecommerce_DataAccessLayer.pdb
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\obj\Debug\Ecommerce_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\obj\Debug\Ecommerce_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\obj\Debug\Ecommerce_DataAccessLayer.dll
+C:\Users\johnm\source\repos\E-commerce\Ecommerce_DataAccessLayer\obj\Debug\Ecommerce_DataAccessLayer.pdb
